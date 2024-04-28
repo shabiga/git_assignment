@@ -1,0 +1,9 @@
+Git Assignment - <shabiga>
+a. An issue is a feature in Github that can be created in a repository to plan, discuss and track work.  
+b. A pull request is a way to contribute changes to a Github repository. It enables users to propose changes to the original repositoy using their forked copy. 
+c. To open a pull request, the first step is to fork the repository that needs the contribution. Clone the forked repository to the local computer and create a new branch. Make and commit the new branch. Push the branch with the changes to the forked repository on Github. Go to the original repository on Github and navigate to the "Pull Request" tab.Then click on the "new pull request" button. Select the branch that contains the changes and provide a title.Finally review the changes and create the pull request. 
+d. To add someone to the repository, navigate to the repository on Github. Click on the setting tab and on the left sidebar, click on "Collaborators". It was take you to the page where it says "who has access" and under that it says "manage access" Click on the green "Add people" button.Enter the GitHub username or the name of the person. Then select the permission level for the collaborator. Finally click on "add username" button to send the invitation. 
+e. Git is a system for sharing version control which enables users to track changes to files and collaborate. Github is a web-based platform and service that host Git repositories by allows uers to save and share the repositories online. 
+f. The 'git diff" commands shows differences between two version of a repository, such as commits, branches and working directory. 
+g.The main branch in a Git repository indicates the project's most recent reliable version. It is often used to create and merge other feature branches. 
+h. No as changes needs to be properly tested and validated before being merged into the 'main branch'. 
